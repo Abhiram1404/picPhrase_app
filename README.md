@@ -13,7 +13,7 @@ Model Architecture: Employed a hybrid approach involving a VGG16-based CNN for i
 
 Metric: Evaluated the model's performance using the BLEU Score, with BLEU-1 score at 0.544 and BLEU-2 score at 0.319.
 
-Environment: Developed and executed the project on the Kaggle platform.
+Environment: Developed and executed the project on the Jupyter notebook.
 
 Libraries: Utilized essential libraries including numpy, matplotlib, Keras, TensorFlow, and NLTK for efficient implementation.
 
